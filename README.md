@@ -54,11 +54,6 @@ This categorizes words that show up in the article and list them.
 
 [Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
 
----
 
-### Hints and Considerations
-
-The free developer version of the News API limits the total monthly requests, so be careful not to exceed the free limits.
----
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
